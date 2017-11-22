@@ -1,0 +1,17 @@
+PODS:
+  - OpenCV (3.2.0):
+    - OpenCV/Dynamic (= 3.2.0)
+  - OpenCV/Dynamic (3.2.0)
+  - SSZipArchive (2.1.1)
+
+DEPENDENCIES:
+  - OpenCV (~> 3.2.0)
+  - SSZipArchive
+
+SPEC CHECKSUMS:
+  OpenCV: 0f7ab403d1e81769bc6f4f524c3c6928ecb1fdb8
+  SSZipArchive: 14401ade5f8e82aba1ff03e9f88e9de60937ae60
+
+PODFILE CHECKSUM: 76188693b67ac32d01b241ea53ea0753e159a8b9
+
+COCOAPODS: 1.2.1

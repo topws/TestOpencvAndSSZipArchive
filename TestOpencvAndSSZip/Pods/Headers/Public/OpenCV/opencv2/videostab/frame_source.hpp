@@ -1,0 +1,1 @@
+../../../../../OpenCV/osx/include/videostab/frame_source.hpp

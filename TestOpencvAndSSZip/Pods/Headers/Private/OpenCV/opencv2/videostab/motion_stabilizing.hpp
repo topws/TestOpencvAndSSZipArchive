@@ -1,0 +1,1 @@
+../../../../../OpenCV/osx/include/videostab/motion_stabilizing.hpp

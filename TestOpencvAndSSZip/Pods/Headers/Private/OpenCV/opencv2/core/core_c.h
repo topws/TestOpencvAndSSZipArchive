@@ -1,0 +1,1 @@
+../../../../../OpenCV/osx/include/core/core_c.h
